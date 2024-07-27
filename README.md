@@ -1,6 +1,6 @@
 # Quiz-app
 
-A Flutter application that fetches real-time weather information through an API and displays the weather information of the searched city.
+A Flutter application that enables users to take quiz and then generate the results at the end.
 
 ## Table of Contents
 
